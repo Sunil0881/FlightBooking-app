@@ -17,7 +17,7 @@ const Navbar = () => {
         {!usertype ? 
         
             <>
-                <h3 >SB Flights</h3>
+                <h3 >SK Flights</h3>
 
                 <div className="nav-options" >
                     <p onClick={()=>navigate('/')}>Home</p>
